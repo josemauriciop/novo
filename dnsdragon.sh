@@ -53,7 +53,7 @@ Options:
 \t-i  instalar no seu desktop no diretorio /usr/bin/
 
 Exemplo execute:
-\t./dnsdragon.sh http://www.sitealvo.com dragon.txt
+\t./dnsdragon.sh http://www.atracaosecreta.com dragon.txt
 
 Caso esteja instalado no seu PC utilize:
 \tdnsdragon [ Site ] [ wordlist ] [ opcoes ]
